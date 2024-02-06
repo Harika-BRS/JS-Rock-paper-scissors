@@ -1,6 +1,2 @@
 # Rock Paper Scissor
-
-###### Purpose:
-    Rock Paper Scissor Game
-
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/javascript/rock-paper-scissor/).
+# you can live [here](https://harika-brs.github.io/JS-Rock-paper-scissors/)
